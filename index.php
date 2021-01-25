@@ -10,6 +10,7 @@
     </head>
 
     <body>
+        <h2>STEP-2</h2>
         <header>
             <div id="menu">
                 <a href="index.php">Główna</a>
