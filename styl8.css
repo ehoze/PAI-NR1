@@ -9,6 +9,12 @@ body
     padding: 0;
 }
 
+
+#step-1
+{
+    background-color: #d3d3d3;
+}
+
 a
 {
     color: Orange;
